@@ -1,4 +1,4 @@
-# Sanith A - Portfolio Website
+# Sanith A - Portfolio Website sanith.in
 
 A modern, premium portfolio website showcasing 14+ years of software engineering experience.
 
